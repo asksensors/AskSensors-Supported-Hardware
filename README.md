@@ -1,4 +1,4 @@
-# AskSensors-Supported-Hardware
+# AskSensors Supported Hardware
 AskSensors (https://asksensors.com) supports all networkable micro-controllers, bridges and materials such as ESP8266, Arduino like, Raspberry Pi and more.
 Feel free to connect your own hardware to AskSensors, and share it with the community! (https://community.asksensors.com)
 
