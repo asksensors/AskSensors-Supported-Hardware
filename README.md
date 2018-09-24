@@ -4,11 +4,19 @@ Feel free to connect your own hardware to AskSensors, and share it with the comm
 
 Tested platforms:
 -
-- ESP8266: Generic, NodeMCU, Huzzah, etc.
-- ESP32.
-- Arduino: Arduino Uno, Nano, Mini, Due, Mega, etc
-- Raspberry Pi.
-- Node.js: on Regular PC with Linux / macOS/ Windows and browsers
+1) ESP8266:
+- ESP-01, ESP-01S, Generic.
+- Node MCU.
+2) ESP32.
+3) Arduino Uno, Nano, Mini, Due, Mega, etc:
+- with Arduino Ethernet Shield - Wiznet W5100
+- with Arduino Ethernet Shield 2 - Wiznet W5500
+- with ENC28J60-based Ethernet modules
+4) Raspberry Pi:
+- Raspberry Pi 3 B.
+5) Node.js: 
+- with Regular PC with Linux / macOS/ Windows
+- with browsers
 
 Getting started:
 - 
