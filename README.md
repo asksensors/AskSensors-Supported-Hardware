@@ -6,17 +6,18 @@ Tested platforms:
 -
 1) ESP8266:
 - ESP-01, ESP-01S, Generic.
-- Node MCU.
+- ESP8266 Node MCU.
 2) ESP32.
 3) Arduino Uno, Nano, Mini, Due, Mega, etc:
-- with Arduino Ethernet Shield - Wiznet W5100
-- with Arduino Ethernet Shield 2 - Wiznet W5500
-- with ENC28J60-based Ethernet modules
+- With Arduino Ethernet Shield V1 - Wiznet W5100
+- With Arduino Ethernet Shield V2 - Wiznet W5500
+- With ENC28J60 Ethernet modules
 4) Raspberry Pi:
-- Raspberry Pi 3 B.
+- Raspberry Pi 3.
+- Raspberry Pi 2.
 5) Node.js: 
-- with Regular PC with Linux / macOS/ Windows
-- with browsers
+- With Regular PC with Linux / macOS/ Windows
+- With browsers
 
 Getting started:
 - 
