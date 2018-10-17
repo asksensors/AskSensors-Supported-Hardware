@@ -39,14 +39,19 @@ Getting started:
 
 Examples and Ready to use codes:
 -
+
 *) ESP8266:
 - Connect ESP8266 to AskSensors: https://github.com/asksensors/AskSensors-ESP8266-API
+
 *) Arduino:
 - Connect Arduino Ethernet shield to AskSensors: https://github.com/asksensors/AskSensors-Arduino-Ethernet 
+
 *) Raspberry Pi:
 - Connect Raspberry Pi to AskSensors: https://github.com/asksensors/AskSensors-Raspberry-Pi
+
 *) Node.js:
 - Send Data to AskSensors using node.js: https://github.com/asksensors/AskSensors-node.js-API
+
 *) ESP32:
 - Connect ESP32 to AskSensors: https://github.com/asksensors/AskSensors-ESP32-API
 
